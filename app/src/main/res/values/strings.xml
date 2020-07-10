@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ASL kids</string>
+    <string name="sings">sings</string>
+    <string name="play">play</string>
+    <string name="acb">abc</string>
+    <string name="referTo">which sign is this?</string>
+    <string name="ok">OK</string>
+</resources>
